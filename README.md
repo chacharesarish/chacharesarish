@@ -48,8 +48,8 @@ A curated selection of my end-to-end data analytics and visualization projects:
 
 I’m open to full-time roles, internships, and collaborative opportunities in **Data Analytics, Business Intelligence, and Data-Driven Decision Making**.
 
-🔗 LinkedIn: https://www.linkedin.com/in/sarish-chachare  
-📧 Feel free to reach out via LinkedIn or GitHub
+📧 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarish-chachare) or [GitHub](https://github.com/chacharesarish)
+
 
 ---
 
