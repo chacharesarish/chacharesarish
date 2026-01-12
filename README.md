@@ -8,42 +8,33 @@ I’m a **Data Analyst** passionate about transforming raw data into actionable 
 
 A curated selection of my end-to-end data analytics and visualization projects:
 
-### 📊 Data Analytics & Business Intelligence Projects
+1. **[Credit Risk Modeling – End-to-End Project](https://github.com/chacharesarish/Credit-Risk-Modeling-End-to-End-Project-main)**  
+   Comprehensive credit risk analysis and predictive modeling using real-world financial data.
 
-1. **Credit Risk Modeling – End-to-End Project**  
-   🔗 https://github.com/chacharesarish/Credit-Risk-Modeling-End-to-End-Project-main  
-   *Comprehensive credit risk analysis and predictive modeling using real-world financial data.*
+2. **[Vendor Performance Analysis (SQL, Python, Power BI)](https://github.com/chacharesarish/vendor-performance-analysis-sql-python-powerbi-test-main)**  
+   Analyzed vendor KPIs to identify performance gaps and deliver data-driven recommendations.
 
-2. **Vendor Performance Analysis (SQL, Python, Power BI)**  
-   🔗 https://github.com/chacharesarish/vendor-performance-analysis-sql-python-powerbi-test-main  
-   *Analyzed vendor KPIs to identify performance gaps and provide data-driven recommendations.*
+3. **[Post-Pandemic E-commerce Sales Analysis](https://github.com/chacharesarish/-Elist-Post-Pandemic-E-commerce-Sales-Analysis-main)**  
+   Sales trend analysis evaluating post-pandemic consumer behavior and market shifts.
 
-3. **Post-Pandemic E-commerce Sales Analysis**  
-   🔗 https://github.com/chacharesarish/-Elist-Post-Pandemic-E-commerce-Sales-Analysis-main  
-   *Sales trend analysis to evaluate the impact of post-pandemic market behavior.*
+4. **[TechSphere E-commerce Analytics Dashboard](https://github.com/chacharesarish/techsphere-ecommerce)**  
+   Interactive dashboards showcasing product performance, customer insights, and revenue trends.
 
-4. **TechSphere E-commerce Analytics Dashboard**  
-   🔗 https://github.com/chacharesarish/techsphere-ecommerce  
-   *Interactive dashboards showcasing product, customer, and revenue insights.*
+5. **[Los Angeles Web Traffic Analysis](https://github.com/chacharesarish/LA-Web-Traffic-Analysis-main)**  
+   Web analytics project focusing on traffic patterns, user behavior, and engagement metrics.
 
-5. **Los Angeles Web Traffic Analysis**  
-   🔗 https://github.com/chacharesarish/LA-Web-Traffic-Analysis-main  
-   *Web analytics project focusing on traffic trends and user behavior.*
+6. **[Medicare Part D Data Analysis](https://github.com/chacharesarish/medicare-part-D-analysis)**  
+   Healthcare analytics exploring prescription drug utilization, spending patterns, and costs.
 
-6. **Medicare Part D Data Analysis**  
-   🔗 https://github.com/chacharesarish/medicare-part-D-analysis  
-   *Healthcare analytics project exploring prescription drug utilization and costs.*
-
-7. **Blinkit Sales Analysis – Excel Dashboard**  
-   🔗 https://github.com/chacharesarish/blinkit-sales-analysis-report-excel-dashboard  
-   *Excel-based interactive dashboard highlighting sales performance metrics.*
+7. **[Blinkit Sales Analysis – Excel Dashboard](https://github.com/chacharesarish/blinkit-sales-analysis-report-excel-dashboard)**  
+   Excel-based interactive dashboard highlighting key sales and performance metrics.
 
 ---
 
 ## 📄 Resume
 
 📌 View or download my resume here:  
-🔗 **[Sarish Chachare Resume (Jan 2026)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(Jan%202026).pdf)**
+**[Sarish Chachare Resume (Jan 2026)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(Jan%202026).pdf)**
 
 ---
 
