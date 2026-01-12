@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sarish Chachare
 
-I’m a **Data Analyst** passionate about transforming raw data into actionable insights to support data-driven decision-making. I specialize in SQL, Python, Excel, and Power BI with hands-on experience in exploratory data analysis, dashboarding, and business analytics.
+I’m a **Data Analyst** passionate about transforming raw data into actionable insights to support data-driven decision-making. I specialize in SQL, Python, Excel, and Power BI, Tableau with hands-on experience in exploratory data analysis, dashboarding, and business analytics.
 
 ---
 
@@ -49,10 +49,7 @@ A curated selection of my end-to-end data analytics and visualization projects:
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python · SQL · R  
-**Data Analysis & Visualization:** Power BI · Tableau · Excel  
-**Tools & Platforms:** Jupyter Notebook · Git · GitHub  
-**Core Skills:** Data Cleaning · EDA · Dashboarding · Reporting · Statistical Analysis
+ Python · SQL · R  | Power BI · Tableau · Excel | GitHub | Data Cleaning · EDA · Dashboarding · Reporting · Statistical Analysis · Predictive Modelling
 
 ---
 
