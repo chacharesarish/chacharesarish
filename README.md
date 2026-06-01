@@ -11,23 +11,11 @@ A curated selection of my end-to-end data analytics and visualization projects:
 1. **[Credit Risk Modeling – End-to-End Project](https://github.com/chacharesarish/Credit-Risk-Modeling-End-to-End-Project-main)**  
    Comprehensive credit risk analysis and predictive modeling using real-world financial data.
 
-2. **[Vendor Performance Analysis (SQL, Python, Power BI)](https://github.com/chacharesarish/vendor-performance-analysis-sql-python-powerbi-test-main)**  
-   Analyzed vendor KPIs to identify performance gaps and deliver data-driven recommendations.
-
-3. **[Post-Pandemic E-commerce Sales Analysis](https://github.com/chacharesarish/-Elist-Post-Pandemic-E-commerce-Sales-Analysis-main)**  
-   Sales trend analysis evaluating post-pandemic consumer behavior and market shifts.
-
-4. **[TechSphere E-commerce Analytics Dashboard](https://github.com/chacharesarish/techsphere-ecommerce)**  
+2. **[TechSphere E-commerce Analytics Dashboard](https://github.com/chacharesarish/techsphere-ecommerce)**  
    Interactive dashboards showcasing product performance, customer insights, and revenue trends.
 
-5. **[Los Angeles Web Traffic Analysis](https://github.com/chacharesarish/LA-Web-Traffic-Analysis-main)**  
-   Web analytics project focusing on traffic patterns, user behavior, and engagement metrics.
-
-6. **[Medicare Part D Data Analysis](https://github.com/chacharesarish/medicare-part-D-analysis)**  
+3. **[Medicare Part D Data Analysis](https://github.com/chacharesarish/medicare-part-D-analysis)**  
    Healthcare analytics exploring prescription drug utilization, spending patterns, and costs.
-
-7. **[Blinkit Sales Analysis – Excel Dashboard](https://github.com/chacharesarish/blinkit-sales-analysis-report-excel-dashboard)**  
-   Excel-based interactive dashboard highlighting key sales and performance metrics.
 
 ---
 
