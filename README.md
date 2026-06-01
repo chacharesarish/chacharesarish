@@ -8,14 +8,14 @@ I’m a **Data Analyst** passionate about transforming raw data into actionable 
 
 A curated selection of my end-to-end data analytics and visualization projects:
 
-1. **[Credit Risk Modeling – End-to-End Project](https://github.com/chacharesarish/Credit-Risk-Modeling-End-to-End-Project-main)**  
-   Comprehensive credit risk analysis and predictive modeling using real-world financial data.
-
-2. **[TechSphere E-commerce Analytics Dashboard](https://github.com/chacharesarish/techsphere-ecommerce)**  
+1. **[TechSphere E-commerce Analytics Dashboard](https://github.com/chacharesarish/techsphere-ecommerce)**  
    Interactive dashboards showcasing product performance, customer insights, and revenue trends.
 
-3. **[Medicare Part D Data Analysis](https://github.com/chacharesarish/medicare-part-D-analysis)**  
+2. **[Medicare Part D Data Analysis](https://github.com/chacharesarish/medicare-part-D-analysis)**  
    Healthcare analytics exploring prescription drug utilization, spending patterns, and costs.
+
+3. **[Credit Risk Modeling – End-to-End Project](https://github.com/chacharesarish/Credit-Risk-Modeling-End-to-End-Project-main)**  
+   Comprehensive credit risk analysis and predictive modeling using real-world financial data.
 
 ---
 
