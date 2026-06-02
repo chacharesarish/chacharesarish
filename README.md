@@ -51,9 +51,15 @@ Currently advancing my skills as a Data Science Trainee at Newton School through
 ## 💼 Experience & Training
 
 ### **Data Science Trainee** | *Newton School* (July 2025 – Present)
-* Completed **500+ hours** of rigorous Data & Business Analytics immersive training.
-* Solved over **100+ complex analytical challenges** covering real-world business scenarios.
-* Engaged in direct hands-on projects, industry expert mentorship, and advanced machine learning modeling.
+• Completed 500+ hours of intensive Data Analytics and Business Analytics training, encompassing SQL, Python, Excel, Power BI, statistics, machine learning, and business intelligence concepts.
+
+• Solved 100+ analytical challenges and real-world business case studies, applying data-driven approaches to uncover insights, optimize processes, and support decision-making.
+
+• Built end-to-end analytics and machine learning projects involving data cleaning, data wrangling, exploratory data analysis (EDA), KPI reporting, dashboard development, predictive modeling, and business storytelling.
+
+• Gained hands-on experience working with industry-standard tools including SQL, Python, Power BI, Tableau, Excel, Pandas, NumPy, and Scikit-Learn to solve practical business problems.
+
+• Collaborated with mentors, industry experts, and peers on real-world analytical scenarios, strengthening problem-solving, stakeholder-focused thinking, and data-driven decision-making skills.
 
 ---
 
