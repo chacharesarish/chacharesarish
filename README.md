@@ -15,7 +15,7 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 
 ---
 
-## 🔥 Featured Projects
+## 💻 Featured Projects
 
 ### 1. [TechSphere E-Commerce Sales Analysis](https://github.com/chacharesarish/techsphere-ecommerce)
 * **Tech Stack:** BigQuery (SQL), Excel, Tableau, Data Visualization
@@ -38,7 +38,7 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 
 ## 💼 Experience & Training
 
-🚀 **Data Science Trainee** | *Newton School* (July 2025 – Present)
+### **Data Science Trainee** | *Newton School* (July 2025 – Present)
 * Completed **500+ hours** of rigorous Data & Business Analytics immersive training.
 * Solved over **100+ complex analytical challenges** covering real-world business scenarios.
 * Engaged in direct hands-on projects, industry expert mentorship, and advanced machine learning modeling.
@@ -50,7 +50,7 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 ### **Education**
 * **B. Tech. in Computer Engineering (Business Analytics)** | Vishwakarma University Pune (7.61 CGPA)
 
-### 🏆 **Certifications**
+### **Certifications**
 1. **HackerRank SQL (Advanced)** ([click here](https://www.hackerrank.com/certificates/iframe/f1bebb820518)) 
 2. **Newton School - Data Analyst** ([click here](https://my.newtonschool.co/course/ffkm8iiln8md/certificate/kyqx422am9sp/verify)) 
 3. **JPMorgan Chase & Co. Quantitative Research** ([click here](https://www.theforage.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._SQhGWbLfApBnCbPAg_1723203514891_completion_certificate.pdf)) – Virtual Experience Program on Forage
