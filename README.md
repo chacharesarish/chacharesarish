@@ -44,7 +44,7 @@ Currently advancing my skills as a Data Science Trainee at Newton School through
 ### 4. [Credit Risk Modeling – End-to-End Project](https://github.com/chacharesarish/Credit-Risk-Modeling-End-to-End-Project-main)
 * **Tech Stack:** Python, Scikit-Learn, Machine Learning, Financial Analytics
 * **Impact:** Conducted comprehensive credit risk evaluation using real-world financial data to minimize default probabilities.
-* **Outcome:** Developed and evaluated predictive risk assessment models to support smart financial lending strategies.
+* **Outcome:** Developed and evaluated predictive risk assessment models to support smart financial lending strategies, achieving an outstanding ROC-AUC score of 0.99 in distinguishing between default and non-default borrowers.
 
 ---
 
