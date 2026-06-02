@@ -22,7 +22,7 @@ A curated selection of my end-to-end data analytics and visualization projects:
 ## 📄 Resume
 
 📌 View or download my resume here:  
-**[Sarish Chachare Resume (Jan 2026)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(June%202026).pdf)**
+**[Sarish Chachare Resume (June 2026)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(June%202026).pdf)**
 
 ---
 
