@@ -85,4 +85,23 @@ I am actively seeking full-time roles, internships, and collaborative projects i
 * 📄 **Resume:** [Download My Latest Resume (PDF)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(June%202026).pdf)
 
 ---
+
+## 📊 Analytics Snapshot
+
+✔ 4 End-to-End Analytics Projects Completed
+
+✔ 108K+ Records Analyzed Across Business Datasets
+
+✔ 25+ SQL Queries Written for Business Analysis
+
+✔ 30+ KPIs Designed & Tracked Through Interactive Dashboards
+
+✔ 100+ Analytical Challenges & Business Case Studies Solved
+
+✔ 500+ Hours of Data & Business Analytics Training
+
+✔ Hands-On Experience in SQL, Python, Power BI, Tableau, Excel & Machine Learning
+
+---
+
 ⭐ *If you find my projects insightful, feel free to leave a star on the repositories!*
