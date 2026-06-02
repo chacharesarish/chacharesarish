@@ -11,11 +11,11 @@ Currently advancing my skills as a Data Science Trainee at Newton School through
 
 ## 🛠️ Technical Toolbox
 
-* **Languages:** Python, SQL, R, C++, HTML, CSS
-* **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow, PySpark, Streamlit, dbt, Apache Airflow, XGBoost
-* **Databases & BI Tools:** MySQL, PostgreSQL, SSMS, Amazon Redshift, PowerBI, Microsoft Fabric, Tableau, IBM Cognos, Excel, Google Sheets, Google Analytics, SAS
-* **Cloud & Environments:** Git, GitHub, Azure Data Factory (ADF), Azure Synapse Analytics, AWS S3, AWS SageMaker, Jupyter Notebook, Google Colab, Conda
-* **AI & Automation:** Generative AI, Large Language Models (LLMs), Prompt Engineering, AI-Assisted Analytics, ChatGPT, Claude, Gemini, Cursor AI, Grok, Manus, Perplexity, and Gen AI models, NotebookLM, Julius AI, Quadratic AI, WARP, Gamma
+* **Languages:** Python, SQL, R, C++
+* **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow, PySpark, Streamlit, dbt, XGBoost
+* **Databases & BI Tools:** MySQL, PostgreSQL, Amazon Redshift, PowerBI, Microsoft Fabric, Tableau, IBM Cognos, Excel, Google Sheets
+* **Cloud & Environments:** Git, GitHub, Jupyter Notebook, Google Colab, Conda
+* **AI & Automation:** Generative AI, Large Language Models (LLMs), Prompt Engineering, AI-Assisted Analytics
 * **Core Competencies:** Data Analysis, Data Cleaning, Data Wrangling, Statistical Analysis, Probability, Exploratory Data Analysis (EDA), Data Visualization, Dashboard Development, SQL Analytics, KPI Reporting, Machine Learning, Predictive Modeling
 
 
