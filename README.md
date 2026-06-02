@@ -62,8 +62,8 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 I am actively seeking full-time roles, internships, and collaborative projects in **Data Analytics, Business Intelligence, and Data Science**. 
 
 * 📧 **Email:** [chacharesarish@gmail.com](mailto:chacharesarish@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/sarish-chachare](https://linkedin.com/in/sarish-chachare)
-* 🐙 **GitHub:** [github.com/chacharesarish](https://github.com/chacharesarish)
+* 🤝 **LinkedIn:** [linkedin.com/in/sarish-chachare](https://linkedin.com/in/sarish-chachare)
+* ⚙️ **GitHub:** [github.com/chacharesarish](https://github.com/chacharesarish)
 * 📄 **Resume:** [Download My Latest Resume (PDF)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(June%202026).pdf)
 
 ---
