@@ -8,10 +8,10 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 ## 🛠️ Technical Toolbox
 
 * **Languages:** Python, SQL, R, C++, HTML, CSS
-* **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow, PySpark, dbt, Apache Airflow
-* **Databases & BI Tools:** MySQL, PostgreSQL, Amazon Redshift, PowerBI, MS Fabric, Tableau, IBM Cognos, Excel, Google Sheets
-* **Cloud & Environments:** Git, GitHub, Docker, Kubernetes, AWS S3, AWS Lambda, AWS SageMaker, Jupyter Notebook, Google Colab
-* **AI & Automation:** LLMs (ChatGPT, Claude, Gemini, Grok, Manus, Perplexity) and Generative AI models, Cursor AI, NotebookLM, Julius AI, Quadratic AI, Gamma(Presentation)
+* **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow, PySpark, Streamlit, dbt, Apache Airflow
+* **Databases & BI Tools:** MySQL, PostgreSQL, Amazon Redshift, PowerBI, MS Fabric, Tableau, IBM Cognos, Excel, Google Sheets, Google Analytics
+* **Cloud & Environments:** Git, GitHub, AWS S3, AWS SageMaker, Jupyter Notebook, Google Colab, Conda
+* **AI & Automation:** LLMs (ChatGPT, Claude, Gemini, Grok, Manus, Perplexity) and Generative AI models, Cursor AI, NotebookLM, Julius AI, Quadratic AI, WARP, Gamma(Presentation)
 * **Core Competencies:** Statistical Analysis, Probability, Exploratory Data Analysis (EDA), Machine Learning, Predictive Modeling
 
 ---
