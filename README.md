@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Sarish Chachare  
 ### **Data Analyst | Data Science Trainee**  
 
-I am a results-driven **Data Analyst** passionate about uncovering actionable insights, building interactive dashboards, and driving data-backed business decisions. With a background in Computer Engineering and specialized training in Data Science, I bridge the gap between complex datasets and strategic execution.
+Data Analyst and Computer Engineering Graduate specializing in turning raw data points into actionable corporate strategies. My engineering foundation, combined with deep analytics specialization, allows me to approach data pipelines with structural efficiency and a business-first mindset.
+
+Currently sharpening my advanced machine learning and statistical modeling capabilities as a Data Science Trainee at Newton School. I focus heavily on structured database design, automated ETL pipelines, predictive analytics, and deploying functional interactive dashboards.
+
+🚀 **Actively Seeking Opportunities:** I am currently open to full-time Data Analyst roles where I can deploy my technical skill set to drive business impact. 
 
 ---
 
