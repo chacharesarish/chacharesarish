@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sarish Chachare  
 ### **Data Analyst | Data Science Trainee**  
 
-Iam a Data Analyst and Computer Engineering graduate with a specialization in Business Analytics, passionate about transforming data into meaningful business insights. With a strong foundation in analytics, statistics, and problem-solving, I enjoy working with data to uncover trends, measure performance, and support data-driven decision-making.
+I am a Data Analyst and Computer Engineering graduate with a specialization in Business Analytics, passionate about transforming data into meaningful business insights. With a strong foundation in analytics, statistics, and problem-solving, I enjoy working with data to uncover trends, measure performance, and support data-driven decision-making.
 
 Currently advancing my skills as a Data Science Trainee at Newton School through hands-on projects, business case studies, and practical applications of SQL, Python, data visualization, machine learning, and dashboard development. My interests include exploratory data analysis (EDA), KPI reporting, predictive analytics, and business intelligence.
 
