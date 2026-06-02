@@ -50,10 +50,10 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 ### **Education**
 * **B. Tech. in Computer Engineering (Business Analytics)** | Vishwakarma University Pune (7.61 CGPA)
 
-### **Certifications**
-1. **HackerRank SQL (Advanced)**([click here](https://www.hackerrank.com/certificates/iframe/f1bebb820518))** 🏆
-2. **Newton School - Data Analyst**([click here](https://my.newtonschool.co/course/ffkm8iiln8md/certificate/kyqx422am9sp/verify))** 🎓
-3. **JPMorgan Chase & Co. Quantitative Research**([click here](https://www.theforage.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._SQhGWbLfApBnCbPAg_1723203514891_completion_certificate.pdf))** – Virtual Experience Program on Forage
+### 🏆 **Certifications**
+1. **HackerRank SQL (Advanced)** ([click here](https://www.hackerrank.com/certificates/iframe/f1bebb820518)) 
+2. **Newton School - Data Analyst** ([click here](https://my.newtonschool.co/course/ffkm8iiln8md/certificate/kyqx422am9sp/verify)) 
+3. **JPMorgan Chase & Co. Quantitative Research** ([click here](https://www.theforage.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._SQhGWbLfApBnCbPAg_1723203514891_completion_certificate.pdf)) – Virtual Experience Program on Forage
 
 ---
 
