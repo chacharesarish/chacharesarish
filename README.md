@@ -51,9 +51,9 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 * **B. Tech. in Computer Engineering (Business Analytics)** | Vishwakarma University Pune (7.61 CGPA)
 
 ### **Certifications**
-1. **HackerRank SQL (Advanced)** 🏆
-2. **Newton School Certified Data Analyst** 🎓
-3. **JPMorgan Chase & Co.** – Quantitative Research Virtual Experience Program
+1. **[HackerRank SQL (Advanced)]([PASTE_YOUR_LINK_HERE](https://www.hackerrank.com/certificates/iframe/f1bebb820518))** 🏆
+2. **[Newton School - Data Analyst]([PASTE_YOUR_LINK_HERE](https://my.newtonschool.co/course/ffkm8iiln8md/certificate/kyqx422am9sp/verify))** 🎓
+3. **[JPMorgan Chase & Co. Quantitative Research]([PASTE_YOUR_LINK_HERE](https://www.theforage.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._SQhGWbLfApBnCbPAg_1723203514891_completion_certificate.pdf))** – Virtual Experience Program on Forage
 
 ---
 
