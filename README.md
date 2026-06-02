@@ -34,6 +34,12 @@ I am a results-driven **Data Analyst** passionate about uncovering actionable in
 * **Impact:** Conducted comprehensive credit risk evaluation using real-world financial data to minimize default probabilities.
 * **Outcome:** Developed and evaluated predictive risk assessment models to support smart financial lending strategies.
 
+### 3. [Blinkit Analysis Dashboard](https://github.com/chacharesarish/blinkit-sales-analysis-report-excel-dashboard)
+* **Tech Stack:** MS Excel (Advanced Formulas, Pivot Tables, Slicers), Data Cleaning, Business Intelligence
+* **Impact:** Analyzed comprehensive retail sales datasets to evaluate customer demand patterns across various food fat contents, outlet tiers, and locations.
+* **Visualization:** Developed an interactive, executive-ready Excel dashboard using KPI cards, donut charts, and dynamic slicers.
+* **Outcome:** Uncovered that regular fat products drive **64.6% of total sales** and delivered targeted recommendations to optimize inventory across Tier-1 and medium outlets.
+
 ---
 
 ## 💼 Experience & Training
