@@ -99,7 +99,7 @@ I am actively seeking full-time roles, internships, and collaborative projects i
 * 📧 **Email:** [chacharesarish@gmail.com](mailto:chacharesarish@gmail.com)
 * 🤝 **LinkedIn:** [linkedin.com/in/sarish-chachare](https://linkedin.com/in/sarish-chachare)
 * ⚙️ **GitHub:** [github.com/chacharesarish](https://github.com/chacharesarish)
-* 📄 **Resume:** [Download My Latest Resume (PDF)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish%20Chachare%20Resume%20(June%202026).pdf)
+* 📄 **Resume:** [Download My Latest Resume (PDF)](https://github.com/chacharesarish/chacharesarish/blob/main/Sarish_Chachare_Data_Analyst_Resume_June_2026.pdf)
 
 ---
 
